@@ -1,0 +1,56 @@
+{
+    "@context": "https://w3id.org/identity/v1",
+    "id": "https://identus.org/mhaidarh",
+    "sysPasswordHash": "$2y$10$pPsllqnUUuLX/G0k4CVgu.PWuF/.fzCV8svnqga/eewIrqM/CuzcG",
+    "sysIdpMapping": [
+        {
+            "type": "IdentityProviderMapping",
+            "identityDocument": "https://identus.org/mhaidarh",
+            "query": "urn:sha256:82a4e062e2c84fb817e4719e13182a44a9083f49df43a4fd104aa19e59702b88",
+            "queryResponse": "54yM0IJex6aKUwoWrGrIF/Uh6DvrMX+cEv4+30yeKf9j0Pa9tPulkn3NkEkOPm7WiqrIHHMrALqkxNd0vGp4SsS2oNyOn7mGmjznjpBPGGxuifvaKp5m5TfioNGjGos0quIx+c4EwKWQDDgFaO5D4Q2WTHqX+VX3bvBt9coLr5Wow4Zx7mvIvws="
+        },
+        {
+            "type": "IdentityProviderMapping",
+            "identityDocument": "https://identus.org/mhaidarh",
+            "query": "urn:sha256:89cf770fa8357d42c902ff9446c27fac6c87fe66eb3e84de688bd6edddf2f460",
+            "queryResponse": "NMM+SRIXNxV9YC7avae6iIy8Vfz/LAXBvM8c40kYfX63u7ZBB/0Hn23Edi/OMpaiyr00yHfxuEi5GSR59PulNZSnt9YBSlNsTPnYz+Z1Admx+QESI0m4Q0D6O/kSgk7Ov4GW/rZgWdyw+FCUqP1LEvZ64OAgFDV5rv/yak7AjZeFAtacyjMZYTw="
+        }
+    ],
+    "sysDeviceKeys": [
+        {
+            "publicKeyPem": "-----BEGIN PUBLIC KEY-----\r\nMFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAONmUgEJR5gx4jGYlpO2PpjnXXvHkjBa\r\nLLWspDBlzIj55cq3tGgRdrOpHY8YXY4Rzz5mUZVI1fCItspOJiefRVcCAwEAAQ==\r\n-----END PUBLIC KEY-----\r\n"
+        },
+        {
+            "publicKeyPem": "-----BEGIN PUBLIC KEY-----\r\nMFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJQJmP61KJxXehO+8fA7rKK0WNJ2UA4j\r\nAUzEJrEeiH2cuWCe9JtrWLvUxggNsxIY5Bo22jgdg3Ve0serrdv76ssCAwEAAQ==\r\n-----END PUBLIC KEY-----\r\n"
+        }
+    ],
+    "sysRegistered": true,
+    "credential": [
+        {
+            "type": "EmailCredential",
+            "claim": {
+                "about": "https://identus.org/mhaidarh",
+                "email": "mhaidarhanif@gmail.com"
+            },
+            "signature": {
+                "type": "GraphSignature2012",
+                "created": "2014-06-14T17:42:34+00:00",
+                "creator": "https://identus.org/idp-key-1",
+                "signatureValue": "EarLMjQ1q4JCMKRQ1KYMi07rlkroNSK5z2zOSRZfdB9qvYB45/dRU7MVVd+DRRPIwHgmEpYl0ZIlzJ1Mx2iv66f0xmnenTW6NUwxYBo8CuPpbzUqjDSuJK3dlEJy67idZz5d6JO1i46fhdAHhWJhV/elc/Z9i66upFbBC0Y73fn0X81E0tHOxPKz+PwiW0C9k35Jj3BG60TBevYcR9dRIhIMqMhqy7WV0U0cXFikUz1g2+rvuyvs1cg5AVHYVZsIgB3FVCEWClOneFCKGlgPIbn55VYgf3Bs6YDUDeus2ny9I+q6Pyb0iNlU4Y3ZnqpPHZqNVdomrvt0cdKL4krtcA=="
+            }
+        },
+        {
+            "type": "ProofOfAgeCredential",
+            "claim": {
+                "about": "https://identus.org/mhaidarh",
+                "proofOfAge": "21"
+            },
+            "signature": {
+                "type": "GraphSignature2012",
+                "created": "2014-06-14T17:44:48+00:00",
+                "creator": "https://credential.club/issuer-key-1",
+                "signatureValue": "rpiPNWtAAmmv9sOKaTCvUPDJV3EYtLSyvaZU9GQgk7YoXxCT81Ij/joyktSNEX3OHl9lpfmnN5rBpf5z2+U2rT+gIzOpiTgPcKpONfpXlZjAS84Em2iJyx2VkSyPx3akUSbo7sE8prPfSCGNmMXH9C/dI3ysrNrAithaElM6KTia17uNNjrfSxF6nxjiHCvBaP9iPYAhNA1GIuksR89Ql06kzg7q5a64o0UEB0wtQeyixcdgzEviXMeVmzma+UCoyrFt3HMsfIo8lnmB/oqpEC/KE7xXRziKEyMmErzMUeo8irE7D4Q9L99AJRPAtryUnw+bpeSdhFffhsK8ZPgylQ=="
+            }
+        }
+    ]
+}

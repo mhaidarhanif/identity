@@ -1,0 +1,410 @@
+{
+
+@context: "http://json-ld.org/contexts/person.jsonld"
+@id: "http://mhaidarhanif.org/about#mhaidarh"
+@type: "Person"
+name: "M Haidar Hanif"
+honorificSuffix: "S.Kom."
+description: "Technology Generalist"
+email: "mhaidarhanif@gmail.om"
+kind: "person"
+objectType: "person"
+status: 0,
+
+title: [
+  "Technology Generalist"
+  "Technology Engineer"
+  "Technology Consultant"
+  "Technology Architect"
+  "Technology Coach"
+  "Technology Trainer"
+]
+
+profession: {
+  primary: "Technology Generalist"
+  collection: [
+    Technologist
+    Developer
+    Designer
+    Engineer
+    Architect
+    Consultant
+    Scientist
+    Entrepreneur
+    Speaker
+    Artist
+    Coach
+		Trainer
+  ]
+  specific: [
+		Application Developer
+		Web Developer
+		Systems Architect
+		System Administrator
+  ]
+  expertise: {
+  	advice: "Innovation and growth strategy for businesses and startups"
+  	category: "Technology - Innovation"
+  	description: ""
+  	topics: [
+  		"technology innovation"
+  	  "growth strategy"
+  	]
+  }
+}
+
+website: [
+  http://mhaidarhanif.org
+  http://mhaidarhanif.com
+  http://mhaidarhanif.net
+  http://mhaidarhanif.co
+  http://haidar.com
+  http://🚀 🎒 .com
+  http://🚀 .com
+  http://👓 .com
+  http://😎 .com
+]
+
+profiles: {
+  web: "http://mhaidarhanif.org/about"
+  google: "https://google.com/+MHaidarHanif/about"
+}
+
+key: {
+  gpg: "000"
+  keybase: "https://keybase.io/mhaidarh"
+}
+
+id: {
+  google: "115815723015247915793"
+  facebook: "1468415484"
+  keybase: "000"
+  ktp: "000"
+  ug-npm: "54411850"
+}
+
+name: {
+  display: "M Haidar Hanif"
+  full: "Muhammad Haidar Hanif"
+  first: "M Haidar"
+  last: "Hanif"
+  pseudonym: {
+    "Haxeru Hexifu"
+    "Hazero Hex"
+  }
+}
+
+username: {
+  short: "mhaidarh"
+  long: "mhaidarhanif"
+}
+
+gender: "male"
+
+tagline: "Technology Generalist"
+
+title: {
+  main: "Technology Generalist"
+  short: "Technologist"
+  shorter: "Generalist"
+  en: "Technology Generalist"
+  id: "Generalis Teknologi"
+  de: "Technologie Generalist"
+  jp: "技術ジェネラリスト"
+}
+
+about: "Technology Generalist | Personally a generalist around technology. A student focusing on computer engineering and HCI (Human-Computer Interaction)."
+
+emails: [
+  {
+    label: "Public International"
+    value: "email@mhaidarhanif.org"
+  }
+  {
+    label: "Publik Indonesia"
+    value: "surel@mhaidarhanif.org"
+  }
+  {
+    label: "Gmail"
+    value: "mhaidarhanif@gmail.com"
+    url: "http://www.google.com/recaptcha/mailhide/d?k=01fD6MIK_-O52x_3AeIcyCqQ==&c=Y6rqYqBfcRlKfZpYzn0pCf-ApIV5J2Z-LFcd9Km75Ow="
+  }
+  {
+    label: "Yahoo"
+    value: "mhaidarhanif@yahoo.com"
+  }
+  {
+    label: "Outlook"
+    value: "mhaidarhanif@outlook.com"
+  }
+]
+
+skills: "General Technology, Linux, HCI, UIX, Web"
+
+location: [
+  {
+    label: "Hex"
+    value: "45:61:72:74:68"
+  }
+  {
+    label: "Home"
+    value: "Depok, Indonesia"
+  }
+  {
+    label: "Work"
+    value: "Jakarta, Indonesia"
+  }
+]
+
+placesLived: [
+  {
+    value: "Depok, Indonesia"
+    primary: true
+  }
+  {
+    value: "Jakarta, Indonesia"
+  }
+  {
+    value: "Kebumen, Indonesia"
+  }
+  {
+    value: "Yogyakarta, Indonesia"
+  }
+  {
+    value: "Pekanbaru, Indonesia"
+  }
+]
+
+avatar: {
+  file: "mhaidarhanif_facepath_blank_blue-green.png"
+}
+
+contact: [
+  {
+    label: "Mobile"
+    value: "+6285693690025"
+  }
+]
+
+host: {
+  name: "hazio"
+  os: "Linux Ubuntu 14.04"
+}
+
+birthday: {
+  year: 1993,
+  month: 5,
+  date: 23
+}
+age: 21,
+
+organizations: [
+  {
+    name: "Gunadarma University"
+    title: "Informatics Engineering"
+    type: "university"
+    startDate: "2011"
+    primary: true
+  }
+  {
+    name: "Personal Research"
+    title: "Knowledge and Human-Computer Interaction"
+    type: "course"
+    startDate: "2012"
+    primary: true
+  }
+  {
+    name: "Hazeorid"
+    title: "Technology Generalist"
+    type: "work"
+    startDate: "2011"
+    primary: true
+  }
+  {
+    name: "AMPlified"
+    title: "Technology Engineer"
+    type: "work"
+    startDate: "2014"
+    primary: true
+  }
+  {
+    name: "Gunadarma University"
+    title: "Technology Staff"
+    type: "study"
+    startDate: "2015"
+    primary: true
+  }
+]
+
+personality: {
+  base: "Ambivert"
+  extension: "Thinker"
+  temperament: "Melancholic"
+  ability: ""
+  interest: ""
+  MBTI: "INTJ"
+  ipersonic: "Independent-Thinker"
+  BOSI: "Innovator-Builder"
+  alignment: "Chaotic Good, Rebel, Transcendent, Path of Liberty"
+}
+
+type: {
+  primary: "Man, Human, Earthling, Terran, Gaian, Homo sapiens"
+  super: "Overman, Overhuman, Above-Human, Superman, Super-human, Übermensch"
+  blood: "AB"
+}
+
+ability: {
+  power: "Insightful, Awakening, Rapid"
+  side: "Potential Seeker"
+}
+
+culture: {
+  primary: "1"
+  country: ["Germany", "Switzerland", "United Kingdom", "Finland", "Canada"]
+}
+
+subject: {
+  primary: [
+    Technology: [
+      General
+      Information Technology (IT)
+      Open Source
+    ]
+    Computing: [
+      Computer Science
+		  Programming
+          Informatics
+          Algorithm
+          Heuristic
+		  Network (TCP/IP)
+    ]
+    Information: [
+      Information Architecture
+      Knowledge Base
+    ]
+    Engineering: [
+      Software
+      MVC
+    ]
+    Development: [
+      Agile [
+        Kanban
+        Scrum
+        Pair Programming
+      ]
+      Drive [
+        BDD, TDD, ATDD
+      ]
+    ]
+    Design: [
+      Human-Computer Interaction (HCI)
+      User Interface
+      User Experience
+      User Interaction
+      Graphic Design
+      Animation
+    ]
+      "System: [
+        UNIX/GNU/Linux [
+            Ubuntu, Mint, Arch, Mac OS
+        ]
+        shell [
+            bash, zsh
+        ]
+        mobile [
+          Android, iOS
+      ]
+      "Web" [
+        Semantic Web
+        High Performence
+        Real Time
+      ]
+      "Database" [
+        SQL [
+          MySQL, MariaDB
+        ]
+        NoSQL [
+          CouchDB, MongoDB
+        ]
+      ]		
+	]
+  secondary: [
+    Statistics: [
+			Performance
+      Analytics
+      Machine Learning      
+    ]
+		Data [
+			Data Science
+			Data Mining
+			Data Retrieval
+		]
+		Computer Vision [
+			Image Processing,
+			OCR
+		]
+    Linguistics: {
+			native: Nusantara
+			professional: [
+			  "American English"
+			  "British English"
+			]
+			beginner: [
+			  "Deutsch"
+			  "Japanese"
+			]
+		}
+    Education: [
+      Open Learning
+    ]
+    Psychology: [
+      Personality
+      Personal Development
+      Performance Management (PM)
+      Cognitive Psychology
+      Neuro-linguistic programming (NLP)
+    ]
+    Self Improvement: [
+      Meditation
+    ]
+  ]
+  tersiary: [
+    Science"
+    Mathematics"
+    Physics"
+    Metaphysics"
+    Music: [
+      genre: "Accoustic, Instrumental, Soundtrack, Vocaloid, Rock, Punk, Pop"
+      instrument: "Vocal, Guitar, Piano, Violin"
+    ]
+    Sport [
+			Speed: Running, Parkour, Cycling, Biking
+			Agility: Hiking, Stunt, Outbound Games, Flying Fox
+			Logic: Chess
+		]
+		Archeology [
+		  Dinosaurs
+		]
+  ]
+}
+
+object [
+  technology: Computer, Smartphone
+  wearable: Hat
+  misc: Abacus
+]
+
+food: [
+	primary: "Maize, Wheat, Potato"
+]
+
+identic: [
+	marvel: Hiro Takachiho
+	disney: Hiro Hamada
+	bleach: Tōshirō Hitsugaya
+]
+
+locale: "en_US"
+}
+

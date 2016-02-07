@@ -1,0 +1,125 @@
+{
+urls: [
+  {
+    label: "M Haidar Hanif | Technology Generalist | Personal Website"
+    value: "http://mhaidarhanif.org"
+  }
+  {
+    label: "M Haidar Hanif | Technology Generalist | Blog"
+    value: "http://mhaidarhanif.org/blog"
+  }
+  {
+    label: "Flickr Photos"
+    value: "https://flickr.com/people/mhaidarhanif"
+  }
+  {
+    label: "Blogspot Blog"
+    value: "http://mhaidarh.blogspot.com"
+  }
+  {
+    label: "Wikipedia User Profile"
+    value: "https://en.wikipedia.org/wiki/User:M_Haidar_Hanif"
+  }
+  {
+    label: "Picasa Web Albums"
+    value: "http://picasaweb.google.com/mhaidarhanif"
+  }
+  {
+    label: "Google Code Repositories"
+    value: "https://code.google.com/u/mhaidarhanif"
+  }
+  {
+    label: "Google Reader Feeds"
+    value: "http://google.com/reader/shared/09496077785610621908"
+  }
+  {
+    label: "Google Books Library"
+    value: "http://books.google.com/books?uid=15815723015247915793"
+  }
+  {
+    label: "Blogspot Profile"
+    value: "http://www.blogger.com/profile/06678063274899039302"
+  }
+  {
+    label: "Quora Quest"
+    value: "http://www.quora.com/M-Haidar-Hanif"
+  }
+  {
+    label: "Launchpad Group"
+    value: "https://launchpad.net/~mhaidarh"
+  }
+  {
+    label: "Behance Network Portfolio"
+    value: "http://www.behance.net/mhaidarhanif"
+  }
+  {
+    label: "Dropr Drops"
+    value: "http://dropr.com/mhaidarh"
+  }
+  {
+    label: "DeviantArt Arts"
+    value: "http://mhaidarh.deviantart.com"
+  }
+  {
+    label: "Foursquare Check-Ins"
+    value: "https://foursquare.com/mhaidarh"
+  }
+  {
+    label: "Vimeo Videos"
+    value: "http://www.vimeo.com/mhaidarh"
+  }
+  {
+    label: "Last.fm Scrobbles"
+    value: "http://www.last.fm/user/mhaidarhanif"
+  }
+  {
+    label: "Mozilla Developer Profile"
+    value: "https://developer.mozilla.org/User:mhaidarhanif"
+  }
+  {
+    label: "SketchUp 3D Warehouse"
+    value: "http://sketchup.google.com/3dwarehouse/search?uq=09596260731320776793"
+  }
+  {
+    label: "MeetUp Meeting"
+    value: "http://meetup.com/members/12236190/"
+  }
+  {
+    label: "Lanyrd Conferences"
+    value: "http://lanyrd.com/people/mhaidarh/"
+  }
+  {
+    label: "Dopplr Travels"
+    value: "http://www.dopplr.com/traveller/mhaidarhanif"
+  }
+  {
+    label: "TripIt Travels"
+    value: "http://tripit.com/people/mhaidarhanif"
+  }
+  {
+    label: "KickStarter Projects"
+    value: "http://www.kickstarter.com/profile/mhaidarhanif"
+  }
+  {
+    label: "Steam Game Community"
+    value: "http://steamcommunity.com/id/hedaru/"
+  }
+  {
+    label: "Yahoo! Pulse"
+    value: "http://pulse.yahoo.com/_25WV3XYOX74PBXNJZLPFCO55II"
+  }
+  {
+    label: "YouTube Videos"
+    value: "http://youtube.com/mhaidarhanif"
+  }
+  {
+    label: "SoundCloud Sounds"
+    value: "http://soundcloud.com/mhaidarh"
+  }
+  {
+    label: "GitHub Repos"
+    value: "https://github.com/mhaidarh"
+  }
+]
+}
+
